@@ -9,7 +9,7 @@
 
 function tampilkanGambar(){
     var top = Math.random()* 400;
-    var left = Math.random()* 400;
+    var left = Math.random()* 200;
     start = new Date().getTime();
 
     document.getElementById("aris").src="aris.png";
